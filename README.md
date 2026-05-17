@@ -131,23 +131,3 @@ height="40"/>
 </a>
 
 </p>
-
----
-
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaivesharma02&layout=compact&theme=default"
-alt="Top Languages" />
-</p>
-
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=shaivesharma02&show_icons=true&theme=default"
-alt="GitHub Stats" />
-</p>
-
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=shaivesharma02&theme=default"
-alt="GitHub Streak" />
-</p>
