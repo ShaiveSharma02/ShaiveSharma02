@@ -17,7 +17,7 @@ Technical Analyst | AI & Machine Learning Engineer | NLP & Automation Enthusiast
 - 💼 Technical Analyst at ION Group working on production support, FIX connectivity, automation, and trading systems
 - 📚 IEEE Published Research Author
 - 💬 Ask me about **Machine Learning, NLP, Deep Learning, Automation, Trading Systems, Linux, SQL, and Production Support**
-- 📫 How to reach me: **shaivesharma02@gmail.com**
+- 📫 How to reach me: **shaivesharmawo@gmail.com**
 
 ---
 
