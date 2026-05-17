@@ -1,3 +1,4 @@
+```markdown
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Shaive Sharma</h1>
@@ -6,23 +7,17 @@
 Technical Analyst | AI & Machine Learning Engineer | NLP & Automation Enthusiast
 </h3>
 
-<img align="right" alt="Coding" width="400"
-src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+---
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=shaivesharma02&label=Profile%20views&color=0e75b6&style=flat" alt="shaivesharma02" />
 </p>
 
 - 🔭 Currently building AI, NLP, automation, and production-grade ML applications
-
 - 🌱 Exploring LLMs, Transformers, AI Automation, and Production ML Systems
-
 - 💼 Technical Analyst at ION Group working on production support, FIX connectivity, automation, and trading systems
-
 - 📚 IEEE Published Research Author
-
 - 💬 Ask me about **Machine Learning, NLP, Deep Learning, Automation, Trading Systems, Linux, SQL, and Production Support**
-
 - 📫 How to reach me: **shaivesharma02@gmail.com**
 
 ---
@@ -81,7 +76,7 @@ height="40"/>
 </a>
 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg"
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
 alt="selenium"
 width="40"
 height="40"/>
@@ -142,18 +137,19 @@ height="40"/>
 
 <p>
 <img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=shaivesharma02&show_icons=true&locale=en&layout=compact"
-alt="shaivesharma02" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaivesharma02&layout=compact&theme=default"
+alt="Top Languages" />
 </p>
 
 <p>
 <img align="center"
-src="https://github-readme-stats.vercel.app/api?username=shaivesharma02&show_icons=true&locale=en"
-alt="shaivesharma02" />
+src="https://github-readme-stats.vercel.app/api?username=shaivesharma02&show_icons=true&theme=default"
+alt="GitHub Stats" />
 </p>
 
 <p>
 <img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=shaivesharma02&"
-alt="shaivesharma02" />
+src="https://github-readme-streak-stats.herokuapp.com/?user=shaivesharma02&theme=default"
+alt="GitHub Streak" />
 </p>
+```
